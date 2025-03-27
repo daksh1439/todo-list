@@ -13,3 +13,8 @@ A simple To-Do List:
 - Task completion status
 - Due dates for tasks
 - User authentication to save tasks
+## Contribution Guidelines
+1. Fork the repository.
+2. Clone your fork and create a new branch.
+3. Make changes and commit with clear messages.
+4. Submit a pull request.
