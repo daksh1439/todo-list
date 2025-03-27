@@ -9,12 +9,14 @@ A simple To-Do List:
 2. Add your new task as a new line in the file.
 3. Save and commit the changes.
 
-## Future Features
+# Future Features
 - Task completion status
 - Due dates for tasks
 - User authentication to save tasks
-## Contribution Guidelines
+# Contribution Guidelines
 1. Fork the repository.
 2. Clone your fork and create a new branch.
 3. Make changes and commit with clear messages.
 4. Submit a pull request.
+# License
+This project is licensed under the MIT License. See `LICENSE.md` for details.
