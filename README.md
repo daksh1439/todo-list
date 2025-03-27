@@ -18,3 +18,5 @@ A simple To-Do List:
 2. Clone your fork and create a new branch.
 3. Make changes and commit with clear messages.
 4. Submit a pull request.
+## Project Overview
+This is a simple To-Do List application.
